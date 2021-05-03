@@ -1,18 +1,10 @@
 # bubble-sort
 
-> .
-
-![screenshot]()
-
 Additional description about the project and its features.
 
 ## Technologies Used
 
 - Ruby
-
-## Live Demo
-
-[Live Demo Link]()
 
 ## Authors
 
@@ -24,9 +16,8 @@ Additional description about the project and its features.
 
 👤 **Uzair**
 
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
-- GitHub: [@githubhandle]()
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/uzair-ali-964187166/)
+- GitHub: [@githubhandle](https://github.com/uzairali19)
 
 ## Getting Started
 
@@ -43,7 +34,7 @@ Go to https://github.com/uzairali19/bubble-sort/tree/main:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/uzairali19/bubble-sort/issues).
 
 ## Show your support
 
@@ -57,4 +48,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is copyright protected, Feel free to contact the authors to collaborate.
