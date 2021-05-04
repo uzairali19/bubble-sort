@@ -34,4 +34,4 @@ def bubble_sort_by(array)
   print array
 end
 
-bubble_sort_by(["hey", "hello", "hi", "asdf", "anyother"])  # => ["hi", "hey", "hello"]
+bubble_sort_by(%w[hey hello hi]) # => ["hi", "hey", "hello"]
