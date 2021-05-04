@@ -23,8 +23,8 @@ def bubble_sort_by(array)
   index = 0
 
   while index < array.size - 1
-    if array[index].length > array [index + 1].length
-        array[index], array[index + 1] = array[index + 1], array[index]
+    if array[index].length > array[index + 1].length
+      array[index], array[index + 1] = array[index + 1], array[index]
       index = 0
     else
       index += 1
@@ -34,4 +34,4 @@ def bubble_sort_by(array)
   print array
 end
 
-bubble_sort_by(["hey", "hello", "hi","asdf","anyother"])  # => ["hi", "hey", "hello"]
+bubble_sort_by(["hey", "hello", "hi", "asdf", "anyother"])  # => ["hi", "hey", "hello"]
