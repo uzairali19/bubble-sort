@@ -37,6 +37,7 @@ GEM
     rubocop-ast (1.5.0)
       parser (>= 3.0.1.1)
     ruby-progressbar (1.11.0)
+    rufo (0.12.0)
     solargraph (0.40.4)
       backport (~> 1.1)
       benchmark
@@ -62,6 +63,7 @@ PLATFORMS
 
 DEPENDENCIES
   rubocop (>= 1.0, < 2.0)
+  rufo
   solargraph
 
 BUNDLED WITH

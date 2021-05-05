@@ -31,12 +31,12 @@ def bubble_sort_by(array)
     end
       i += 1
      
-    end
+  end
   end
   print array
 end
 
-bubble_sort_by(["Hey","Hi", "Hello"]) do |left,right|
+bubble_sort_by(%w['Hey', 'Hi', 'Hello']) do |left, right|
   left.length - right.length
 end
 
