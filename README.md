@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 - Twitter: [@twitterhandle](https://twitter.com/AnassTantane)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anass-tantane)
-- GitHub: [@githubhandle](https://github.com/rockerbell)
+- GitHub: [@githubhandle](https://github.com/rocker-bell)
 
 👤 **Uzair**
 
