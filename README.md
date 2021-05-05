@@ -1,6 +1,12 @@
 # bubble-sort
 
-Additional description about the project and its features.
+This project focuses on the bubble sort algorithm. This algorithm allows the user to input or pass an array and get that sorted in ascending order.
+
+- In case of integers this algorithm simply calculates which integer is bigger and swaps if need from each other to sort them. For example: 4 and 2. So, 4 would be greater than 2 and come after it.
+  Expected result: 2, 4
+
+- In case of strings in an array this algorithm calculates the length of an array and then sorts them accordingly. For example: "hello" has a length of 5 and "hi" has a length of 2. So, "hello" would be greater than "hi" and come after it.
+  Expected result: "hi","hello"
 
 ## Technologies Used
 
